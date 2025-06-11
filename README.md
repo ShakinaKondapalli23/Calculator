@@ -1,6 +1,9 @@
 # Calculator
 Your beautiful calculator designed especially for girls with a pink &amp; purple theme!
+
+
 💡 Features
+
 💗 Stylish Theme – Elegant pink & purple color palette with a soft UI
 
 🎵 Click Sound – Button click sound (click.mp3) for tactile feel
